@@ -14,11 +14,11 @@
 [![F-Droid](https://img.shields.io/f-droid/v/rocks.poopjournal.fucksgiven.svg)](https://f-droid.org/en/packages/rocks.poopjournal.fucksgiven/)
 [![Google Play](https://badgen.net/badge/icon/googleplay?icon=googleplay&label)](https://play.google.com/store/apps/details?id=rocks.poopjournal.fucksgiven)
 
-# Fucks Given
+# Givens
 
-Fucks Given lets you keep track of the things that made you care. Whenever something happens that you needlessly concern yourself with, jot it down with a tap. The app creates a chart of how many fucks you’ve given, so you can work to give none.
+Givens lets you keep track of the things that made you care. Whenever something happens that you needlessly concern yourself with, jot it down with a tap. The app creates a chart of how many F's you’ve given, so you can work to give none.
  
-Fucks Given allows you to back up your data and has a beautiful dark mode that can turn on automatically, following the system theme.
+Givens allows you to back up your data and has a beautiful dark mode that can turn on automatically, following the system theme.
 
 <a href="https://f-droid.org/packages/rocks.poopjournal.fucksgiven/">
     <img alt="Get it on F-Droid"
